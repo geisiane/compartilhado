@@ -19,4 +19,8 @@ public class Teste {
     public void Testar2 (){
         System.out.println("Metodo de teste 2!");
     }
+    public void testar3(){
+        System.out.println("Mestodo de teste 3!");
+    }
+    
 }
