@@ -14,7 +14,7 @@ public class Teste {
     int teste1;
     
     public void Testar (){
-        System.out.println("Essa classe foi criadad apenas para fins de teste!");
+       
     }
     public void Testar2 (){
         System.out.println("Metodo de teste 2!");
