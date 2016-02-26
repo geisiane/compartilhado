@@ -22,5 +22,7 @@ public class Teste {
     public void testar3(){
         System.out.println("Mestodo de teste 3!");
     }
-    
+    public void testar4 (){
+        System.out.println("validação");
+    }
 }
